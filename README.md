@@ -21,7 +21,7 @@ Diplômée d'un Master 2 Management de l'Innovation (Université de Rennes), je 
 | Qualité | ISO 9001, gestion des risques |
 
 ## Mes projets
-Un cas fil rouge fictif, déroulé en trois volets : **[projet-ticketing-pme](./projet-ticketing-pme)**
+Un cas fil rouge fictif, déroulé en trois volets : **https://github.com/annalinecantrel/projet-ticketing-pme**
 
 | Volet | Livrables |
 |---|---|
