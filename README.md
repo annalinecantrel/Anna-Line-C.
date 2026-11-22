@@ -1,6 +1,7 @@
 Bonjour, je suis Anna-Line 👋
 
 Business Analyst · Chef de projet IT
+
 Diplômée d'un Master 2 Management de l'Innovation (Université de Rennes), je travaille aujourd'hui sur le pilotage et l'amélioration des services de déploiement IT : analyse des flux, suivi des indicateurs, coordination des parties prenantes, amélioration continue.
 
 📍 Brest, Bretagne · 🔗 [LinkedIn](https://www.linkedin.com/in/annaline.cantrel) · ✉️ annaline.cantrel@gmail.com
