@@ -29,6 +29,6 @@ Un cas fil rouge fictif, déroulé en trois volets : **https://github.com/annali
 | Chef de projet | Charte, planning, RACI, registre des risques |
 | Pilotage et amélioration continue | Engagements de service, KPI, gestion des incidents, plan PDCA |
 
-Un autre cas fictif portant sur le pilotage ITIL du parc de postes de travail : **https://github.com/annalinecantrel/projet-pilotageITIL-pdt**
+Un autre cas fictif portant sur le pilotage ITIL du parc de postes de travail : **[suivi-itil-postes-de-travail](https://github.com/annalinecantrel/suivi-itil-postes-de-travail)**
 
 > Les projets présentés ici sont fictifs et ne contiennent aucune donnée issue de mes missions.
